@@ -1,0 +1,6 @@
+{
+  "name": "Hành Trình Đồ Dùng Học Tập - 6 Trò Chơi Tương Tác",
+  "description": "Bộ 6 trò chơi tương tác giáo dục tiểu học: Ai về đúng nhà, Đồ dùng này làm gì, Truyền điện phản xạ, Thám tử dấu câu, Bắn bóng vào đích và Giải cứu Cậu bé Bút chì.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
